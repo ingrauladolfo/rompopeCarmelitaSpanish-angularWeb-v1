@@ -1,0 +1,18 @@
+@font-face {
+    font-family: GIOVANNI;
+    src: url('../../../assets/font/GIOVANNI.ttf') format("truetype");
+}
+.spacer{
+    flex: 1 1 auto;
+}
+mat-toolbar{
+    background: #741b1d !important;
+}
+button{
+    font-family: GIOVANNI;
+}
+button:hover{
+    background: #741b1d !important;
+    color: #ffffff;
+    font-family: GIOVANNI;
+}
